@@ -1,0 +1,5 @@
+com\aiops\domain\IncidentStatus.class
+com\aiops\domain\Incident.class
+com\aiops\domain\Anomaly.class
+com\aiops\domain\IncidentSeverity.class
+com\aiops\domain\RemediationRecommendation.class
